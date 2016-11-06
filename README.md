@@ -27,7 +27,7 @@ Optimal solution would be to win each level as fast as possible. As a result, we
 
 # High score
 
-By setting DEVELOPMENT to 0 (at the header) and with a little bit of luck, the bot was able to score 330. My own record is 350. 
+By setting DEVELOPMENT to 0 (at the header) and with a bit of luck, the bot was able to score *330*.
 
 # Room For Improvement
 
