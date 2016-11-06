@@ -1,6 +1,6 @@
 # Corsairs Bot
 
-Corsairs is a game recently introduced in Telegram's platform. You can play it on Android, iOS or install the PC version and the program will give you a link to an HTML5 game. (We use latter here)
+Corsairs is a game recently introduced in Telegram's platform. You can play it on Android, iOS or install Telegram's PC version and the [@gamebot](https://telegram.me/gamebot) will give you the link to an HTML5 game. (We use latter here)
 
 This is by no means a complete out-of-box solution to beat the game, just something I did for fun and invite others to improve upon.
 
