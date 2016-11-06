@@ -25,6 +25,10 @@ Once we have all the data we can easily detect where each bullet will hit the ou
 
 Optimal solution would be to win each level as fast as possible. As a result, we'll mostly be playing Clock-wise and run temporarily Counter-clock-wise when facing obstacles. We use an sleep function with a dynamic value each time we're going CCW so we know when to return to playing CW.***
 
+# High score
+
+By setting DEVELOPMENT to 0 (at the header) and with a little bit of luck, the bot was able to score 330. My own record is 350. 
+
 # Room For Improvement
 
 * \* This link (http://stackoverflow.com/a/22219146) suggests there is a way to capture 60fps. I don't have access to Windows 8 and haven't tried it.
