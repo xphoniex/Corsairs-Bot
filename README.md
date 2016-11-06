@@ -25,7 +25,7 @@ Once we have all the data we can easily detect where each bullet will hit the ou
 
 Optimal solution would be to win each level as fast as possible. As a result, we'll mostly be playing Clock-wise and run temporarily Counter-clock-wise when facing obstacles. We use an sleep function with a dynamic value each time we're going CCW so we know when to return to playing CW.***
 
-# High score
+# High Score
 
 By setting DEVELOPMENT to 0 (at the header) and with a bit of luck, the bot was able to score *330*.
 
