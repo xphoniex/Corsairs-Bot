@@ -8,7 +8,7 @@ The bot fails to work in later level because the DirectX can't keep up with the 
 
 # How To Use It
 
-Set the resolution to *1600x900*, everything else must be according to the video.
+Set the resolution to *1600x900*, everything else must be according to the [video](https://github.com/xphoniex/Corsairs-Bot/raw/master/v1%20-%20watch%20this.mp4).
 When you're only one mouse-click away from the game running, press `Num Lock` key, and when the level is about to finish, press `R` key. Repeat for next level.
 
 # How Does It Work
@@ -33,5 +33,5 @@ Optimal solution would be to win each level as fast as possible. As a result, we
 
 # Credits
 
-Screenshot are taken using the code provided here (http://stackoverflow.com/a/30138664) by [Simon Mourier - @smourier](https://github.com/smourier).
+Screenshot are taken using the code provided here (http://stackoverflow.com/a/30138664) by [Simon Mourier](https://github.com/smourier).
 
